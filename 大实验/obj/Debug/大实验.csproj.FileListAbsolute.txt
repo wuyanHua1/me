@@ -1,0 +1,15 @@
+F:\source\C#\大实验\大实验\bin\Debug\Database1.mdf
+F:\source\C#\大实验\大实验\bin\Debug\Database1_log.ldf
+F:\source\C#\大实验\大实验\bin\Debug\大实验.exe.config
+F:\source\C#\大实验\大实验\bin\Debug\大实验.exe
+F:\source\C#\大实验\大实验\bin\Debug\大实验.pdb
+F:\source\C#\大实验\大实验\obj\Debug\大实验.csprojResolveAssemblyReference.cache
+F:\source\C#\大实验\大实验\obj\Debug\大实验.Form1.resources
+F:\source\C#\大实验\大实验\obj\Debug\大实验.Properties.Resources.resources
+F:\source\C#\大实验\大实验\obj\Debug\大实验.csproj.GenerateResource.Cache
+F:\source\C#\大实验\大实验\obj\Debug\大实验.csproj.CoreCompileInputs.cache
+F:\source\C#\大实验\大实验\obj\Debug\大实验.exe
+F:\source\C#\大实验\大实验\obj\Debug\大实验.pdb
+F:\source\C#\大实验\大实验\obj\Debug\大实验.Add.resources
+F:\source\C#\大实验\大实验\obj\Debug\大实验.Login.resources
+F:\source\C#\大实验\大实验\obj\Debug\大实验.Register.resources
